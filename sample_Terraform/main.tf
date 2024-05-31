@@ -1,7 +1,7 @@
 provider "aws" {
   region  = "us-east-1"
-  access_key = "AKIA4MTWNCOCQJH5GSDR"
-  secret_key = "0eC5GTTDsqrcI22iyJExw5RO+TYByzvNMiB6TdqE"
+  access_key = "your Access key"
+  secret_key = "your security key"
 }
 /////Deploying EC2 instance in AWS///////////
 
